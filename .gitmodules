@@ -1,0 +1,3 @@
+[submodule "front_end"]
+	path = front_end
+	url = https://github.com/Prem3113/DEFI_STAKING_APPLICATION.git
